@@ -1,4 +1,4 @@
-##Problem no 3: Python Division
+##Problem 3: Python Division
 if __name__ == '__main__':
     a = int(input())
     b = int(input())
